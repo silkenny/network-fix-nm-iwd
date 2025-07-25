@@ -1,0 +1,13 @@
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.log
+*.pid
+*.out
+*.sh~
+.cache/
+__pycache__/
+.DS_Store
